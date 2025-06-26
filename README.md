@@ -155,10 +155,6 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/Sat70">Satam Gupta</a></p>
-  <p>Made with ❤️ by <a href="https://github.com/Harshk2004">Harsh Kothari</a></p>
-  <p>Made with ❤️ by <a href="https://github.com/0Kushagarwal">Kush Agarwal</a></p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/Sat70/JSON-To-XML-Converter?style=social)](https://github.com/Sat70/JSON-To-XML-Converter/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/Sat70/JSON-To-XML-Converter?style=social)](https://github.com/Sat70/JSON-To-XML-Converter/network/members)
+
+  <p>Made with ❤️ by <a href="https://github.com/AtishayJain27">Atishay Jain</a></p>
 </div> 
